@@ -20,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jadavmadhavkumar&show_icons=true&locale=en&layout=compact" alt="jadavmadhavkumar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jadavmadhavkumar&show_icons=true&locale=en" alt="jadavmadhavkumar" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jadavmadhavkumar&" alt="jadavmadhavkumar" /></p>
